@@ -7,7 +7,6 @@ Bu proje, mikroskop görüntülerinden parazit yumurtası tespiti yapmak için d
 **Proje Türü:** Tıbbi Görüntü İşleme - Sınıflandırma  
 **Kullanılan Teknoloji:** PyTorch, Transfer Learning (ResNet18)  
 **Veri Seti:** Chula-ParasiteEgg-11  
-**Proje Tarihi:** 5 Aralık 2025
 
 ---
 
@@ -91,18 +90,9 @@ ResNet18 (Pre-trained on ImageNet)
 - **Loss Function:** Cross Entropy Loss
 - **Learning Rate Scheduler:** ReduceLROnPlateau
 - **Early Stopping:** Patience = 10
-- **Cihaz:** CPU
 
 ---
-
-## 📈 Eğitim Süreci
-
-### Eğitim Detayları
-
-- **Başlangıç Zamanı:** 5 Aralık 2025, 13:30:02
-- **Tamamlanma Zamanı:** 5 Aralık 2025, 13:56:01
-- **Toplam Süre:** ~26 dakika
-- **Tamamlanan Epoch:** 24 (50 epoch planlanmıştı, early stopping ile durdu)
+)
 
 ### Eğitim Sonuçları
 
