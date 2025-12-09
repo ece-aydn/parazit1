@@ -27,8 +27,6 @@ Mikroskop görüntülerinden parazit yumurtalarını otomatik olarak tespit etme
 
 ### Eğitimde Kullanılan Sınıflar
 
-Veri yükleme sırasında sadece 4 parazit türü için yeterli veri yüklenebilmiştir:
-
 1. **Ascaris lumbricoides** (Yuvarlak solucan) - 1,000 örnek
 2. **Capillaria philippinensis** - 1,000 örnek
 3. **Enterobius vermicularis** (Kıl kurdu) - 1,000 örnek
